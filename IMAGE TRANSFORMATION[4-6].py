@@ -1,3 +1,6 @@
+## DEVELOPED BY
+## NAME : HARI PRIYA M
+## REG NO : 212224240047
 
 ##iv)Image Reflection
 import numpy as np
@@ -34,4 +37,3 @@ import matplotlib.pyplot as plt
 input_image=cv2.imread("got.jpg") 
 input_image=cv2.cvtColor(input_image,
 plt.show()
-
